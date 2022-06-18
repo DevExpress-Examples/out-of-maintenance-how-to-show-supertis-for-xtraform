@@ -166,6 +166,6 @@
     <value>..\Resources\addfile_16x16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="isBlackFridayDiscount" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\isBlackFridayDiscount.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v19.1, Version=19.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+    <value>..\Resources\isBlackFridayDiscount.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v19.1, Version=19.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
 </root>
